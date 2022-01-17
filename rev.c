@@ -11,3 +11,4 @@ int main() {
     printf("Reversed number = %d", rev);
     return 0;
 }
+reverse order is modification is added
